@@ -61,7 +61,6 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 > Want detailed explanation of Heroku Deployment? [Click Here](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/heroku)
 
-
 ## 🖇 VPS Deployment
 
 > Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
