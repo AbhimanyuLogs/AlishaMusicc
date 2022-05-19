@@ -205,7 +205,7 @@ lyrics_4 : "Click on the button below and get searched lyrics to avoid long spam
 
 #Ping
 ping_1 : "Pong!!!!"
-ping_2 : "{0} is working good with a ping of `{1}` ms.\n\nBot's uptime is {2} and has used a total of {3} server's storage. Cpu load is about {4} with a consumption of {5} Ram. Py-Tgcalls client is also having a good ping of `{6}` ms."
+ping_2 : "╔═════🎸⚡️🎸══════╗\n   ❂ 𝗕𝗼𝘁 𝗜𝘀 𝗢𝗻𝗹𝗶𝗻𝗲 • 📡 ✅\n  ❂ 𝗘𝗦𝗕𝗢𝗧•𝗣𝗜𝗡𝗚 ▷ {1}\n   •━━━━-----━━━━•\n    ⚝•Cᴘᴜ ☛ {4}\n    ⚝•Rᴀᴍ ☛ {5}\n   ⚝•Sᴛᴏʀᴀɢᴇ ☛ {3}\n   ⚝•Pʏ-Tɢᴄᴀʟʟs Pɪɴɢ ☛ {6}\n   ⚝•Uᴘᴛɪᴍᴇ ☛ {2}\n\n╚═════🎤⚡️🎤══════╝"
 
 
 # Song
