@@ -76,7 +76,7 @@ admin_34 : "Failed to seek the current stream."
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
 start_2 : "Hello, My name is {0}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
-start_3 : "Tʜᴀɴᴋs Fᴏʀ Aᴅᴅɪɴɢ Mᴇ•🦋❤️\n-------------------------\n\nESBOT Usage:\n1.Please Make Me Admin Here!\n2. Use /play Song's name\n\n\n▰▰▰▰▰▰▰▰▰▰▰▰▰\n             •⏤‌𝙀𝙎𝘽𝙊𝙏•\n      A Bᴇsᴛ Mᴜsɪᴄ Pʟᴀʏᴇʀ\n              ★SHRAAJ★\n▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n ⋐•Assɪsᴛᴀɴᴛ UID: @{1}\n ⋐•Assɪsᴛᴀɴᴛ ID   : {2}"
+start_3 : "Tʜᴀɴᴋs Fᴏʀ Aᴅᴅɪɴɢ Mᴇ•🦋 {0} ❤️\n-------------------------\n\nESBOT Usage:\n1.Please Make Me Admin Here!\n2. Use /play Song's name\n\n\n▰▰▰▰▰▰▰▰▰▰▰▰▰\n             •⏤‌𝙀𝙎𝘽𝙊𝙏•\n      A Bᴇsᴛ Mᴜsɪᴄ Pʟᴀʏᴇʀ\n              ★SHRAAJ★\n▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n ⋐•Assɪsᴛᴀɴᴛ UID: @{1}\n ⋐•Assɪsᴛᴀɴᴛ ID   : {2}"
 start_4 : "{0}'s Owner[{1}] has just joined your chat."
 start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
 start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** to **supergroup** and then add me back.\n\n**How to make supergroup?**\n✅ Make your group's chat history **visible** once."
