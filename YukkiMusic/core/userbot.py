@@ -24,7 +24,7 @@ class Userbot(Client):
         self.one = Client(
             api_id=config.API_ID,
             api_hash=config.API_HASH,
-            session_name=str(BQCWjjkTlsCuBKbxiMY-ZKFWi-2hDbXFWNDShvU1jfZTH8EpDzotHORusIy_2tJOUNlv5jM84szYYXNAIgHj8Z5TNClTZdUJKas2UYmSlNABsDEDx6ysKu-8ww6Vl_dWVx2HOqh8J2-z9ObzQfbHtUKIoj-pe3mgUsMtzcpCIi8wmwP5cBug405-LfGMtTrpNY53oaPK8loqnF9mfFgO3VR8vT39JP9LlS0Kk1CIJMq-GVJPoO4iOfhPGB5FISjVn4sAQvOx8gwp_zQAE0wiTlufRqJdzjgk2q3Hk1WKMF3QvvgGkxnfwTd-guFvDBSvIdeHKqE-M2l0frMFe71ndHk2AAAAASsMjN8A),
+            session_name=str(config.STRING1),
             no_updates=True,
         )
         self.two = Client(
