@@ -236,7 +236,7 @@ stream_4 : "📡 **Aʟɪsʜᴀ Pʟᴀʏɪɴɢ Oᴘ** 💡\n\n**🏷Sᴏɴɢ Nᴀ
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞"
+CLOSE_BUTTON  : "Cʟᴏsᴇ"
 CLOSEMENU_BUTTON  : "💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞"
 BACK_BUTTON : "⬅ Bᴀᴄᴋ"
 UNBAN_BUTTON : "🗑 Uɴʙᴀɴ Assɪsᴛᴀɴᴛ"
@@ -275,8 +275,8 @@ P_B_4 : "🎵 Play Playlist"
 
 #Playlist
 PL_B_1 : "🚀 Pʟᴀʏ Pʟᴀʏʟɪsᴛs"
-PL_B_2 : "✚ Pʟᴀʏʟɪsᴛs"
-PL_B_3 : "✚ Aᴅᴅɪᴛɪᴏɴᴀʟ"
+PL_B_2 : "⭐ Pʅαყʅιʂƚʂ"
+PL_B_3 : "✨ σɯɳҽɾ"
 PL_B_4 : "📡 Pʟᴀʏ Mᴏᴅᴇ"
 PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
